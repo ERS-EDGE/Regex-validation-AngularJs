@@ -6,5 +6,5 @@ Angularjs is used to validate input text controls with the help of regular expre
 For example validating email id with Angular Js using regular expression or validation to allow only numbers with using regular expression.
 
 <p align="center">
-    <img  alt="Regex-Validate-AngularJs" src="img/regularExp1.jpg" class="img-responsive">
+    <img  alt="Regex-Validate-AngularJs" src="img/regularExp1.gif" class="img-responsive">
 </p>
